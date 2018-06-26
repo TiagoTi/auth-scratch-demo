@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Refs:
+[Authenticate Your Rails API With JWT From Scratch](https://www.sitepoint.com/authenticate-your-rails-api-with-jwt-from-scratch/)
+
+[A Quick Study Of The Rails Directory Structure](https://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)
